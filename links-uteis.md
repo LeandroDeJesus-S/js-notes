@@ -1,0 +1,3 @@
+- [Tutorial sobre a WEB da mozila](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web)
+- [Live com projeto site do multi-verso Spider Main](https://web.dio.me/lab/multiverso-spider-man-criando-um-site-com-html-css-e-javascript/learning/8e433153-5ac9-49ea-b2e6-38a5a93b4f21)
+- [CSS generator](https://cssgenerator.org/)
